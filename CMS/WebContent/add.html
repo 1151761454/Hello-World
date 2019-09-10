@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <!-- 重置文件 -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/style1.css">
+  <title></title>
+</head>
+<body>
+  <div class="reg_div">
+    <p>新增数据</p>
+    <form action="/CMS/Add" method="post">
+    <ul class="reg_ul">
+      <li>
+          <span>用户名：</span>
+          <input type="text" name="name"  placeholder="请输入用户名" class="reg_user">
+          <span class="tip user_hint"></span>
+      </li>
+      <li>
+          <span>密码：</span>
+          <input type="text" name="password"  placeholder="请输入位密码" class="reg_password">
+          <span class="tip password_hint"></span>
+      </li>
+      <li>
+          <span>年龄：</span>
+          <input type="text" name="age" placeholder="输入年龄" class="reg_confirm">
+          <span class="tip confirm_hint"></span>
+      </li>
+      <li>
+          <span>身高：</span>
+          <input type="text" name="stature" placeholder="身高" class="reg_email">
+          <span class="tip email_hint"></span>
+      </li>
+      <li>
+          <span>家庭住址：</span>
+          <input type="text" name="address" placeholder="家庭住址" class="reg_mobile">
+          <span class="tip mobile_hint"></span>
+      </li>
+      <li>
+       <button type="submit" name="button" class="red_button">添加数据</button>
+      </li>
+    </ul>
+    </form>
+  </div>
+  
+
+
+</body>
+</html>
