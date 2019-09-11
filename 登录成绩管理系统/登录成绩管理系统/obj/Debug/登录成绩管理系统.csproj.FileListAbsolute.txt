@@ -1,0 +1,17 @@
+D:\编程作业\登录成绩管理系统\登录成绩管理系统\bin\Debug\登录成绩管理系统.exe.config
+D:\编程作业\登录成绩管理系统\登录成绩管理系统\bin\Debug\登录成绩管理系统.exe
+D:\编程作业\登录成绩管理系统\登录成绩管理系统\bin\Debug\登录成绩管理系统.pdb
+D:\编程作业\登录成绩管理系统\登录成绩管理系统\obj\Debug\登录成绩管理系统.csprojResolveAssemblyReference.cache
+D:\编程作业\登录成绩管理系统\登录成绩管理系统\obj\Debug\登录成绩管理系统.Form1.resources
+D:\编程作业\登录成绩管理系统\登录成绩管理系统\obj\Debug\登录成绩管理系统.Properties.Resources.resources
+D:\编程作业\登录成绩管理系统\登录成绩管理系统\obj\Debug\登录成绩管理系统.csproj.GenerateResource.Cache
+D:\编程作业\登录成绩管理系统\登录成绩管理系统\obj\Debug\登录成绩管理系统.exe
+D:\编程作业\登录成绩管理系统\登录成绩管理系统\obj\Debug\登录成绩管理系统.pdb
+D:\编程作业\登录成绩管理系统\登录成绩管理系统\obj\Debug\登录成绩管理系统.Form2.resources
+D:\编程作业\登录成绩管理系统\登录成绩管理系统\obj\Debug\登录成绩管理系统.Form3.resources
+D:\编程作业\登录成绩管理系统\登录成绩管理系统\obj\Debug\登录成绩管理系统.Form4.resources
+D:\编程作业\登录成绩管理系统\登录成绩管理系统\obj\Debug\登录成绩管理系统.Form5.resources
+D:\编程作业\登录成绩管理系统\登录成绩管理系统\obj\Debug\登录成绩管理系统.Form6.resources
+D:\编程作业\登录成绩管理系统\登录成绩管理系统\obj\Debug\登录成绩管理系统.Form7.resources
+D:\编程作业\登录成绩管理系统\登录成绩管理系统\obj\Debug\登录成绩管理系统.Form8.resources
+D:\编程作业\登录成绩管理系统\登录成绩管理系统\obj\Debug\登录成绩管理系统.Form9.resources
